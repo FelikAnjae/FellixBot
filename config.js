@@ -8,7 +8,7 @@ module.exports = {
     opt: {
         DJ: {
             enabled: false,
-            roleName: 'KangDJ',
+            roleName: '',
             commands: ['back', 'clear', 'filter', 'loop', 'pause', 'resume', 'seek', 'shuffle', 'skip', 'stop', 'volume']
         },
         maxVol: 100,
