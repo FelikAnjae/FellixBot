@@ -1,8 +1,8 @@
 module.exports = {
     app: {
-        px: '_',
-        token: 'ODkyMDI4MTE0NTA1NDMzMTM4.YVG76w.Pb93PRewjw8FXOe1ZjjzX6SJvPw',
-        playing: 'by FellixCraf',
+        px: 'f!',
+        token: 'ODkyMzUwODMyNTc2NzEyNzU1.YVLoeQ.IdBjpCR1lyhxlK6jM26eQokbBo4',
+        playing: 'by FellixCraft',
     },
 
     opt: {
